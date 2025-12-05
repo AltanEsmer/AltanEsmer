@@ -30,6 +30,14 @@ name: Altan Esmer
 location: Building the future 🌍
 current_focus: AlesSystems
 role: Founder & Software Developer
+experience: Full-stack development, Cloud architecture, DevOps
+education: Computer Science & Software Engineering
+
+interests:
+  - Software Architecture
+  - Cloud Computing
+  - Artificial Intelligence
+  - Open Source Development
 
 passions:
   - Building innovative software solutions
@@ -38,9 +46,13 @@ passions:
   - Continuous learning
 
 daily_routine:
-  - ☕ Coffee
+  - 🍵 Tea
   - 💻 Code
   - 🔄 Repeat
+
+contact:
+  - 📧 Available via GitHub
+  - 🤝 Open to collaboration
 ```
 
 <br clear="right"/>
